@@ -1,0 +1,1 @@
+print("dark and stormy night")
